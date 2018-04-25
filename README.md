@@ -14,8 +14,6 @@ $ node app.js
 
 ### Server API options
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
 | Route | returns |
 | ------ | ------ |
 | /list | all the messages logged from chat |
